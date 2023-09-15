@@ -1,0 +1,1 @@
+# For CWGAN-GP models (generator, critic and results) storage
